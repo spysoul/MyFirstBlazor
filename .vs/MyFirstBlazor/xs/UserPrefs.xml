@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{320EC6B9-7C79-484C-8B7E-47F7D7906C22}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Client/Pages/Counter.razor">
+    <Files>
+      <File FileName="Client/Pages/Counter.razor" Line="84" Column="1" />
+      <File FileName="Client/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Server/Program.cs" Line="36" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstBlazor" expanded="True">
+            <Node name="MyFirstBlazor.Client" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Counter.razor" selected="True" />
+              </Node>
+            </Node>
+            <Node name="MyFirstBlazor.Server" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyFirstBlazor.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
